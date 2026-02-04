@@ -62,7 +62,7 @@ O projeto possui uma interface limpa e responsiva, dividida em três seções pr
 
 ## 👩‍💻 Autora
 
-**Isabelle Christina**
+**Isabelle Pantoja**
 
 ---
 *Projeto desenvolvido para fins de estudo e composição de portfólio.* 🚀
